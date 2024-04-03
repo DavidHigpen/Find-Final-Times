@@ -1,6 +1,6 @@
 # Find-Final-Times
 
-Super easy program to view your final times for different schedules. Works for A&M students for the Fall '24 semester. I have a seperate program to generate the dictionary, I didn't do that my hand lol.
+Super easy program to view your final times for different schedules. Works for A&M students for the Fall '24 semester. I have a seperate program to generate the dictionary, I didn't do that my hand lol. Hopefully it should work well, but let me know if you find any bugs please!
 
 ## Installation
 
