@@ -11,8 +11,15 @@ git clone https://github.com/DavidHigpen/Find-Final-Times.git
 
 - Or just copy and paste the one script into your IDE of choice
 
+
+
 ## Usage
 
 1. Hit run
 
 2. In Aggie Schedule builder just highlight all the important info and paste it directly into the terminal
+
+Example useage:
+
+![Example of useage](./images/ScheduleExample.png)
+![Example of useage](./images/PythonExample.png)
