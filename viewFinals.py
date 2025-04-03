@@ -64,8 +64,5 @@ while time.perf_counter() - start < 0.2 or time.perf_counter() - start > 10: #re
 print("\nFinals are:")
 for classTime in examTimes: #iterates in this order so that it prints in final time order
     for i, realClassTime in enumerate(schedule):
-        # print(classTime)
-        # print(realClassTime[0])
-        # print()
-        if classTime in realClassTime[0]:
+        if classTime in realClassTime:
             print(classes[i][0][:4] + " " + classes[i][0][5:], ":", examTimes[classTime])
